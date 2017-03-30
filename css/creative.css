@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 :root {
-  --baseColor: #1D52D8;
+  --baseColor: #2574BE;
 }
 
 html,
@@ -222,7 +222,7 @@ header .header-content .header-content-inner p {
 }
 
 #ripple .section-heading {
-  color: black;
+  color: var(--baseColor);
 }
 
 #ripple, #goffpod {
