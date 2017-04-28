@@ -221,16 +221,16 @@ header .header-content .header-content-inner p {
   margin-top: 0;
 }
 
-#ripple .section-heading {
+#gravity .section-heading {
   color: var(--baseColor);
 }
 
-#ripple, #goffpod {
+#gravity, #ripple {
   height: 100%;
   min-height: 600px;
 }
 
-#ripple {
+#gravity {
   background-image: url('../img/goffclub.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -239,7 +239,7 @@ header .header-content .header-content-inner p {
   background-position: center;
 }
 
-#goffpod {
+#ripple {
   background-image: url('../img/header.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
